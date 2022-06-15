@@ -2,7 +2,7 @@
 
 Hello, i'm Zwelathy!
 
-![僕はです](/img/avatar0.jpg)
+![僕はです](https://raw.githubusercontent.com/Zwelathy/netology-git-final/master/img/Avatar0.jpg)
 
 And right now i'm a beginner programming engineer.
 
